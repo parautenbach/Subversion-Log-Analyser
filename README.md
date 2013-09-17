@@ -1,4 +1,7 @@
-Subversion-Log-Analyser
+Subversion Log Analyser
 =======================
 
 A parser to analyse a Subversion log to output the line and file modifications per user and revision.
+
+# Dependencies
+* [pysvn](http://pysvn.tigris.org/)
